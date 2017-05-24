@@ -1,2 +1,0 @@
-# coursera-tests
-Coursera tests
